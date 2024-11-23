@@ -6,3 +6,7 @@
    - ros2 launch moveit2_tutorials demo.launch.py rviz_config:=panda_moveit_config_demo_empty.rviz
 
 ![Screenshot from 2024-11-23 14-24-27](https://github.com/user-attachments/assets/0ca170b1-7c3e-4e24-947f-893ea1bad006)
+<br/> 
+2. 
+
+![Screenshot from 2024-11-23 18-21-28](https://github.com/user-attachments/assets/3564d042-d1a5-4dab-bbcc-89dd5fdb946a)
