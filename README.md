@@ -21,3 +21,16 @@
 
 ![Screenshot from 2024-11-23 18-22-17](https://github.com/user-attachments/assets/3008e64c-4c52-4a84-9408-5786fb6a3705)
 
+<br/>
+3. 움직이기
+   - 계획 환경 에서의 로봇 구성 /monitored_planning_scene(기본적으로 활성화됨) <br/>
+   - 로봇의 계획된 경로(기본적으로 활성화됨) <br/>
+   - 녹색: 동작 계획의 시작 상태(기본적으로 비활성화됨) <br/>
+   - 주황색: 동작 계획의 목표 상태(기본적으로 활성화됨) <br/>
+<br/>
+   - Scene Geometry : 로봇 시각적 표시 확인란을 사용하여 장면 로봇을 계획 <br/>
+   - Planned Path : 로봇 시각적 표시 확인란을 사용하여 계획된 경로 확인 <br/>
+   - Planning Request : 쿼리 시작 상태 체크 박스를 사용하여 시작 상태를 확인 <br/>
+   - Planning Request : 목표 상태 쿼리 체크박스를 사용하여 목표 상태를 확인 <br/>
+
+![Screenshot from 2024-11-23 18-24-18](https://github.com/user-attachments/assets/d173013e-ce7b-4c6b-9d07-d3a718429aa0)
