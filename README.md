@@ -7,9 +7,8 @@
 
 ![Screenshot from 2024-11-23 14-24-27](https://github.com/user-attachments/assets/0ca170b1-7c3e-4e24-947f-893ea1bad006)
 
-<br/>
 <br/> 
-2. rviz화면
+2. rviz화면 <br/>
    - Add - moveit_ros_visualization 폴더에서 DisplayType으로 “MotionPlanning”을 선택
    - RViz에서 Panda 로봇을 볼 수 있음
    - 모션 플래닝 플러그인을 로드 -> 구성 시작
