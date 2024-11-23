@@ -4,6 +4,6 @@
 <br/> 
 1. 실행 <br/> 
    - ros2 launch moveit2_tutorials demo.launch.py rviz_config:=panda_moveit_config_demo_empty.rviz
-![Screenshot from 2024-11-23 18-21-28](https://github.com/user-attachments/assets/7c974559-f78f-42c6-993b-7d03e655bd17)
+![Screenshot from 2024-11-23 14-24-27](https://github.com/user-attachments/assets/00c799f4-8215-4a7a-b017-94cd01d4b6c2)
 <br/> 
 2. 
