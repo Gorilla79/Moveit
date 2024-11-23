@@ -1,4 +1,4 @@
-# Moveit
+![Screenshot from 2024-11-23 18-24-18](https://github.com/user-attachments/assets/6f6e7678-cc74-4dbb-b19d-0e5ecbb63319)# Moveit
 ## 사전 진행
 > [참고] https://moveit.picknik.ai/humble/doc/how_to_guides/how_to_generate_api_doxygen_locally.html
 <br/> 
@@ -22,7 +22,7 @@
 ![Screenshot from 2024-11-23 18-22-17](https://github.com/user-attachments/assets/3008e64c-4c52-4a84-9408-5786fb6a3705)
 
 <br/>
-3. 움직이기
+3. 움직이기 <br/>
    - 계획 환경 에서의 로봇 구성 /monitored_planning_scene(기본적으로 활성화됨) <br/>
    - 로봇의 계획된 경로(기본적으로 활성화됨) <br/>
    - 녹색: 동작 계획의 시작 상태(기본적으로 비활성화됨) <br/>
