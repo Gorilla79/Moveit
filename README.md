@@ -1,4 +1,3 @@
-![Screenshot from 2024-11-23 18-24-18](https://github.com/user-attachments/assets/6f6e7678-cc74-4dbb-b19d-0e5ecbb63319)# Moveit
 ## 사전 진행
 > [참고] https://moveit.picknik.ai/humble/doc/how_to_guides/how_to_generate_api_doxygen_locally.html
 <br/> 
